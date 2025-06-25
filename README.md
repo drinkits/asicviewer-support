@@ -33,6 +33,4 @@ This plugin allows you to easily validate digital signatures on ASiC-E (eDoc) co
 The default limit is 100 MB if not set. The allowed range is 1 MB to 1024 MB.
 
 ## Need Help?
-If you have questions or need assistance using the ASiC-E Signature Validator plugin, please contact your Jira administrator or support team.
-
-For more information about Jira plugins, visit the Atlassian documentation: https://support.atlassian.com/jira/
+For problems or feature requests, contact support@drinkits.lv directly or create an issue in this GitHub repository.
